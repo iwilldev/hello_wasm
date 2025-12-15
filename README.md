@@ -7,6 +7,9 @@ I built and ran this code on Linux kernel: **6.17.8-arch1-1**
 
 You should be able to achieve the same results on Mac, Windows, or a BSD environment given you installed all dependencies properly.
 
+I followed most of this [Tutorial](https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm) from the Mozilla Developer Network. That tutorial has more detailed instructions if you run into issues.
+I did not make this into an npm package.
+
 ## Installing Rust:
 First, follow the [Install Guide](https://rust-lang.org/tools/install/) here to install Rust using **rustup**. I used the Stable version and that is what you should be using as well.
 

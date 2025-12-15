@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Alex Barbee"]
 edition = "2021"
 description = "An example hello world wasm project"
-license = "GPL-3.0"
+license = "MIT/Apache-2.0"
 
 [lib]
 crate-type = ["cdylib"]
