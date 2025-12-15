@@ -7,9 +7,8 @@ I built and ran this code on Linux kernel: **6.17.8-arch1-1**
 
 You should be able to achieve the same results on Mac, Windows, or a BSD environment given you installed all dependencies properly.
 
-## Installing rust:
-First, follow the [Install Guide](https://rust-lang.org/tools/install/) here to install Rust using **rustup**
-I used the Stable version and that is what you should be using as well.
+## Installing Rust:
+First, follow the [Install Guide](https://rust-lang.org/tools/install/) here to install Rust using **rustup**. I used the Stable version and that is what you should be using as well.
 
 ## Installing wasm-pack
 You will also need to install a Rust webassembly packager.
